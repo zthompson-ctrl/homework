@@ -1,0 +1,17 @@
+body {
+    background-color: #f0f4f8;
+    color: #102a43;
+    font-family: sans-serif;
+}
+#main-title {
+    color: #0b69a3;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 3px solid #0b69a3;
+}
+.intro-box {
+    background-color: white;
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid #bcccdc;
+}
